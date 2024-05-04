@@ -1,0 +1,15 @@
+C:\projects\.Net\t1474\PrimerParcial\EstructurasDeControl\EstructurasDeControl\bin\Debug\net8.0\EstructurasDeControl.exe
+C:\projects\.Net\t1474\PrimerParcial\EstructurasDeControl\EstructurasDeControl\bin\Debug\net8.0\EstructurasDeControl.deps.json
+C:\projects\.Net\t1474\PrimerParcial\EstructurasDeControl\EstructurasDeControl\bin\Debug\net8.0\EstructurasDeControl.runtimeconfig.json
+C:\projects\.Net\t1474\PrimerParcial\EstructurasDeControl\EstructurasDeControl\bin\Debug\net8.0\EstructurasDeControl.dll
+C:\projects\.Net\t1474\PrimerParcial\EstructurasDeControl\EstructurasDeControl\bin\Debug\net8.0\EstructurasDeControl.pdb
+C:\projects\.Net\t1474\PrimerParcial\EstructurasDeControl\EstructurasDeControl\obj\Debug\net8.0\EstructurasDeControl.GeneratedMSBuildEditorConfig.editorconfig
+C:\projects\.Net\t1474\PrimerParcial\EstructurasDeControl\EstructurasDeControl\obj\Debug\net8.0\EstructurasDeControl.AssemblyInfoInputs.cache
+C:\projects\.Net\t1474\PrimerParcial\EstructurasDeControl\EstructurasDeControl\obj\Debug\net8.0\EstructurasDeControl.AssemblyInfo.cs
+C:\projects\.Net\t1474\PrimerParcial\EstructurasDeControl\EstructurasDeControl\obj\Debug\net8.0\EstructurasDeControl.csproj.CoreCompileInputs.cache
+C:\projects\.Net\t1474\PrimerParcial\EstructurasDeControl\EstructurasDeControl\obj\Debug\net8.0\EstructurasDeControl.sourcelink.json
+C:\projects\.Net\t1474\PrimerParcial\EstructurasDeControl\EstructurasDeControl\obj\Debug\net8.0\EstructurasDeControl.dll
+C:\projects\.Net\t1474\PrimerParcial\EstructurasDeControl\EstructurasDeControl\obj\Debug\net8.0\refint\EstructurasDeControl.dll
+C:\projects\.Net\t1474\PrimerParcial\EstructurasDeControl\EstructurasDeControl\obj\Debug\net8.0\EstructurasDeControl.pdb
+C:\projects\.Net\t1474\PrimerParcial\EstructurasDeControl\EstructurasDeControl\obj\Debug\net8.0\EstructurasDeControl.genruntimeconfig.cache
+C:\projects\.Net\t1474\PrimerParcial\EstructurasDeControl\EstructurasDeControl\obj\Debug\net8.0\ref\EstructurasDeControl.dll
