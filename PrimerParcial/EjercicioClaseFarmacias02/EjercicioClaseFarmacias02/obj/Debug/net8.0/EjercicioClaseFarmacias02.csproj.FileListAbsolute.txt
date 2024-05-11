@@ -1,0 +1,15 @@
+C:\projects\.Net\t1474\PrimerParcial\EjercicioClaseFarmacias02\EjercicioClaseFarmacias02\bin\Debug\net8.0\EjercicioClaseFarmacias02.exe
+C:\projects\.Net\t1474\PrimerParcial\EjercicioClaseFarmacias02\EjercicioClaseFarmacias02\bin\Debug\net8.0\EjercicioClaseFarmacias02.deps.json
+C:\projects\.Net\t1474\PrimerParcial\EjercicioClaseFarmacias02\EjercicioClaseFarmacias02\bin\Debug\net8.0\EjercicioClaseFarmacias02.runtimeconfig.json
+C:\projects\.Net\t1474\PrimerParcial\EjercicioClaseFarmacias02\EjercicioClaseFarmacias02\bin\Debug\net8.0\EjercicioClaseFarmacias02.dll
+C:\projects\.Net\t1474\PrimerParcial\EjercicioClaseFarmacias02\EjercicioClaseFarmacias02\bin\Debug\net8.0\EjercicioClaseFarmacias02.pdb
+C:\projects\.Net\t1474\PrimerParcial\EjercicioClaseFarmacias02\EjercicioClaseFarmacias02\obj\Debug\net8.0\EjercicioClaseFarmacias02.GeneratedMSBuildEditorConfig.editorconfig
+C:\projects\.Net\t1474\PrimerParcial\EjercicioClaseFarmacias02\EjercicioClaseFarmacias02\obj\Debug\net8.0\EjercicioClaseFarmacias02.AssemblyInfoInputs.cache
+C:\projects\.Net\t1474\PrimerParcial\EjercicioClaseFarmacias02\EjercicioClaseFarmacias02\obj\Debug\net8.0\EjercicioClaseFarmacias02.AssemblyInfo.cs
+C:\projects\.Net\t1474\PrimerParcial\EjercicioClaseFarmacias02\EjercicioClaseFarmacias02\obj\Debug\net8.0\EjercicioClaseFarmacias02.csproj.CoreCompileInputs.cache
+C:\projects\.Net\t1474\PrimerParcial\EjercicioClaseFarmacias02\EjercicioClaseFarmacias02\obj\Debug\net8.0\EjercicioClaseFarmacias02.sourcelink.json
+C:\projects\.Net\t1474\PrimerParcial\EjercicioClaseFarmacias02\EjercicioClaseFarmacias02\obj\Debug\net8.0\EjercicioClaseFarmacias02.dll
+C:\projects\.Net\t1474\PrimerParcial\EjercicioClaseFarmacias02\EjercicioClaseFarmacias02\obj\Debug\net8.0\refint\EjercicioClaseFarmacias02.dll
+C:\projects\.Net\t1474\PrimerParcial\EjercicioClaseFarmacias02\EjercicioClaseFarmacias02\obj\Debug\net8.0\EjercicioClaseFarmacias02.pdb
+C:\projects\.Net\t1474\PrimerParcial\EjercicioClaseFarmacias02\EjercicioClaseFarmacias02\obj\Debug\net8.0\EjercicioClaseFarmacias02.genruntimeconfig.cache
+C:\projects\.Net\t1474\PrimerParcial\EjercicioClaseFarmacias02\EjercicioClaseFarmacias02\obj\Debug\net8.0\ref\EjercicioClaseFarmacias02.dll
