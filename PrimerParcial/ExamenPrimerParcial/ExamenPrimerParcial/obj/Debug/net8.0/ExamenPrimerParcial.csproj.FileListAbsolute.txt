@@ -1,0 +1,15 @@
+C:\projects\.Net\t1474\PrimerParcial\ExamenPrimerParcial\ExamenPrimerParcial\bin\Debug\net8.0\ExamenPrimerParcial.exe
+C:\projects\.Net\t1474\PrimerParcial\ExamenPrimerParcial\ExamenPrimerParcial\bin\Debug\net8.0\ExamenPrimerParcial.deps.json
+C:\projects\.Net\t1474\PrimerParcial\ExamenPrimerParcial\ExamenPrimerParcial\bin\Debug\net8.0\ExamenPrimerParcial.runtimeconfig.json
+C:\projects\.Net\t1474\PrimerParcial\ExamenPrimerParcial\ExamenPrimerParcial\bin\Debug\net8.0\ExamenPrimerParcial.dll
+C:\projects\.Net\t1474\PrimerParcial\ExamenPrimerParcial\ExamenPrimerParcial\bin\Debug\net8.0\ExamenPrimerParcial.pdb
+C:\projects\.Net\t1474\PrimerParcial\ExamenPrimerParcial\ExamenPrimerParcial\obj\Debug\net8.0\ExamenPrimerParcial.GeneratedMSBuildEditorConfig.editorconfig
+C:\projects\.Net\t1474\PrimerParcial\ExamenPrimerParcial\ExamenPrimerParcial\obj\Debug\net8.0\ExamenPrimerParcial.AssemblyInfoInputs.cache
+C:\projects\.Net\t1474\PrimerParcial\ExamenPrimerParcial\ExamenPrimerParcial\obj\Debug\net8.0\ExamenPrimerParcial.AssemblyInfo.cs
+C:\projects\.Net\t1474\PrimerParcial\ExamenPrimerParcial\ExamenPrimerParcial\obj\Debug\net8.0\ExamenPrimerParcial.csproj.CoreCompileInputs.cache
+C:\projects\.Net\t1474\PrimerParcial\ExamenPrimerParcial\ExamenPrimerParcial\obj\Debug\net8.0\ExamenPrimerParcial.sourcelink.json
+C:\projects\.Net\t1474\PrimerParcial\ExamenPrimerParcial\ExamenPrimerParcial\obj\Debug\net8.0\ExamenPrimerParcial.dll
+C:\projects\.Net\t1474\PrimerParcial\ExamenPrimerParcial\ExamenPrimerParcial\obj\Debug\net8.0\refint\ExamenPrimerParcial.dll
+C:\projects\.Net\t1474\PrimerParcial\ExamenPrimerParcial\ExamenPrimerParcial\obj\Debug\net8.0\ExamenPrimerParcial.pdb
+C:\projects\.Net\t1474\PrimerParcial\ExamenPrimerParcial\ExamenPrimerParcial\obj\Debug\net8.0\ExamenPrimerParcial.genruntimeconfig.cache
+C:\projects\.Net\t1474\PrimerParcial\ExamenPrimerParcial\ExamenPrimerParcial\obj\Debug\net8.0\ref\ExamenPrimerParcial.dll
