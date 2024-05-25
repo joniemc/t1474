@@ -1,0 +1,7 @@
+C:\projects\.Net\t1474\SegundoParcial\ArreglosBiDimencionales\ArreglosBiDimencionales\bin\Debug\ArreglosBiDimencionales.exe.config
+C:\projects\.Net\t1474\SegundoParcial\ArreglosBiDimencionales\ArreglosBiDimencionales\bin\Debug\ArreglosBiDimencionales.exe
+C:\projects\.Net\t1474\SegundoParcial\ArreglosBiDimencionales\ArreglosBiDimencionales\bin\Debug\ArreglosBiDimencionales.pdb
+C:\projects\.Net\t1474\SegundoParcial\ArreglosBiDimencionales\ArreglosBiDimencionales\obj\Debug\ArreglosBiDimencionales.csproj.AssemblyReference.cache
+C:\projects\.Net\t1474\SegundoParcial\ArreglosBiDimencionales\ArreglosBiDimencionales\obj\Debug\ArreglosBiDimencionales.csproj.CoreCompileInputs.cache
+C:\projects\.Net\t1474\SegundoParcial\ArreglosBiDimencionales\ArreglosBiDimencionales\obj\Debug\ArreglosBiDimencionales.exe
+C:\projects\.Net\t1474\SegundoParcial\ArreglosBiDimencionales\ArreglosBiDimencionales\obj\Debug\ArreglosBiDimencionales.pdb

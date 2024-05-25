@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\projects\\.Net\\t1474\\SegundoParcial\\ArreglosBiDimencionales\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A0BF1017-3D78-4637-91D3-893994492ADC}|ArreglosBiDimencionales\\ArreglosBiDimencionales.csproj|c:\\projects\\.net\\t1474\\segundoparcial\\arreglosbidimencionales\\arreglosbidimencionales\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0BF1017-3D78-4637-91D3-893994492ADC}|ArreglosBiDimencionales\\ArreglosBiDimencionales.csproj|solutionrelative:arreglosbidimencionales\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\projects\\.Net\\t1474\\SegundoParcial\\ArreglosBiDimencionales\\ArreglosBiDimencionales\\Program.cs",
+              "RelativeDocumentMoniker": "ArreglosBiDimencionales\\Program.cs",
+              "ToolTip": "C:\\projects\\.Net\\t1474\\SegundoParcial\\ArreglosBiDimencionales\\ArreglosBiDimencionales\\Program.cs",
+              "RelativeToolTip": "ArreglosBiDimencionales\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T00:43:42.34Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
