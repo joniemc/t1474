@@ -1,0 +1,7 @@
+C:\projects\.Net\t1474\SegundoParcial\ColeccionesGenericas\ColeccionesGenericas\bin\Debug\ColeccionesGenericas.exe.config
+C:\projects\.Net\t1474\SegundoParcial\ColeccionesGenericas\ColeccionesGenericas\bin\Debug\ColeccionesGenericas.exe
+C:\projects\.Net\t1474\SegundoParcial\ColeccionesGenericas\ColeccionesGenericas\bin\Debug\ColeccionesGenericas.pdb
+C:\projects\.Net\t1474\SegundoParcial\ColeccionesGenericas\ColeccionesGenericas\obj\Debug\ColeccionesGenericas.csproj.AssemblyReference.cache
+C:\projects\.Net\t1474\SegundoParcial\ColeccionesGenericas\ColeccionesGenericas\obj\Debug\ColeccionesGenericas.csproj.CoreCompileInputs.cache
+C:\projects\.Net\t1474\SegundoParcial\ColeccionesGenericas\ColeccionesGenericas\obj\Debug\ColeccionesGenericas.exe
+C:\projects\.Net\t1474\SegundoParcial\ColeccionesGenericas\ColeccionesGenericas\obj\Debug\ColeccionesGenericas.pdb

@@ -1,0 +1,7 @@
+C:\projects\.Net\t1474\SegundoParcial\ProgramacionOrientadaObjetos\ProgramacionOrientadaObjetos\bin\Debug\ProgramacionOrientadaObjetos.exe.config
+C:\projects\.Net\t1474\SegundoParcial\ProgramacionOrientadaObjetos\ProgramacionOrientadaObjetos\bin\Debug\ProgramacionOrientadaObjetos.exe
+C:\projects\.Net\t1474\SegundoParcial\ProgramacionOrientadaObjetos\ProgramacionOrientadaObjetos\bin\Debug\ProgramacionOrientadaObjetos.pdb
+C:\projects\.Net\t1474\SegundoParcial\ProgramacionOrientadaObjetos\ProgramacionOrientadaObjetos\obj\Debug\ProgramacionOrientadaObjetos.csproj.AssemblyReference.cache
+C:\projects\.Net\t1474\SegundoParcial\ProgramacionOrientadaObjetos\ProgramacionOrientadaObjetos\obj\Debug\ProgramacionOrientadaObjetos.csproj.CoreCompileInputs.cache
+C:\projects\.Net\t1474\SegundoParcial\ProgramacionOrientadaObjetos\ProgramacionOrientadaObjetos\obj\Debug\ProgramacionOrientadaObjetos.exe
+C:\projects\.Net\t1474\SegundoParcial\ProgramacionOrientadaObjetos\ProgramacionOrientadaObjetos\obj\Debug\ProgramacionOrientadaObjetos.pdb
