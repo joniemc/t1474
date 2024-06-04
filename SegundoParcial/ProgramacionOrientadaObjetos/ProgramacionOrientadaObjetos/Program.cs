@@ -12,20 +12,23 @@ namespace ProgramacionOrientadaObjetos
         static void Main(string[] args)
         {
             int opcion = 0;
+            
             List<Estudiante> listaEstudiantes = new List<Estudiante>();
             do {
                 Menu();
                 opcion = Convert.ToInt16(Console.ReadLine());
                 if (opcion == 1)
                 {
-                    Estudiante miEstudiante = new Estudiante();
+                    
                     Console.Write("Ingrese su numero de cuenta: ");
-                    miEstudiante.cuenta = Console.ReadLine();
+                    string cuenta = Console.ReadLine();
                     Console.Write("Ingrese su nombre completo: ");
-                    miEstudiante.nombreCompleto = Console.ReadLine();
+                    string nombreCompleto = Console.ReadLine();
                     Console.Write("Ingrese su calificación: ");
-                    miEstudiante.calificación = Convert.ToDouble(Console.ReadLine());
-
+                    double calificación = Convert.ToDouble(Console.ReadLine());
+                    
+                    Estudiante miEstudiante = new Estudiante(cuenta, nombreCompleto, calificación);
+                    
                     listaEstudiantes.Add(miEstudiante); 
                 }
                 else {
@@ -46,4 +49,5 @@ namespace ProgramacionOrientadaObjetos
             Console.Write("Elija una opción: ");
         }
     }
+
 }
