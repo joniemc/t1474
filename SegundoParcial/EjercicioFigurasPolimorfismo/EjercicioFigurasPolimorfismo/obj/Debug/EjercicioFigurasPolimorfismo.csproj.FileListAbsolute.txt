@@ -1,0 +1,7 @@
+C:\projects\.Net\t1474\SegundoParcial\EjercicioFigurasPolimorfismo\EjercicioFigurasPolimorfismo\bin\Debug\EjercicioFigurasPolimorfismo.exe.config
+C:\projects\.Net\t1474\SegundoParcial\EjercicioFigurasPolimorfismo\EjercicioFigurasPolimorfismo\bin\Debug\EjercicioFigurasPolimorfismo.exe
+C:\projects\.Net\t1474\SegundoParcial\EjercicioFigurasPolimorfismo\EjercicioFigurasPolimorfismo\bin\Debug\EjercicioFigurasPolimorfismo.pdb
+C:\projects\.Net\t1474\SegundoParcial\EjercicioFigurasPolimorfismo\EjercicioFigurasPolimorfismo\obj\Debug\EjercicioFigurasPolimorfismo.csproj.AssemblyReference.cache
+C:\projects\.Net\t1474\SegundoParcial\EjercicioFigurasPolimorfismo\EjercicioFigurasPolimorfismo\obj\Debug\EjercicioFigurasPolimorfismo.csproj.CoreCompileInputs.cache
+C:\projects\.Net\t1474\SegundoParcial\EjercicioFigurasPolimorfismo\EjercicioFigurasPolimorfismo\obj\Debug\EjercicioFigurasPolimorfismo.exe
+C:\projects\.Net\t1474\SegundoParcial\EjercicioFigurasPolimorfismo\EjercicioFigurasPolimorfismo\obj\Debug\EjercicioFigurasPolimorfismo.pdb

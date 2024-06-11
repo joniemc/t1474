@@ -3,11 +3,11 @@
   "WorkspaceRootPath": "C:\\projects\\.Net\\t1474\\SegundoParcial\\ProgramacionOrientadaObjetos\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{063B7A9C-222C-4DD1-AA08-7FF35F99A072}|ProgramacionOrientadaObjetos\\ProgramacionOrientadaObjetos.csproj|C:\\projects\\.Net\\t1474\\SegundoParcial\\ProgramacionOrientadaObjetos\\programacionorientadaobjetos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{063B7A9C-222C-4DD1-AA08-7FF35F99A072}|ProgramacionOrientadaObjetos\\ProgramacionOrientadaObjetos.csproj|c:\\projects\\.net\\t1474\\segundoparcial\\programacionorientadaobjetos\\programacionorientadaobjetos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{063B7A9C-222C-4DD1-AA08-7FF35F99A072}|ProgramacionOrientadaObjetos\\ProgramacionOrientadaObjetos.csproj|solutionrelative:programacionorientadaobjetos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{063B7A9C-222C-4DD1-AA08-7FF35F99A072}|ProgramacionOrientadaObjetos\\ProgramacionOrientadaObjetos.csproj|c:\\projects\\.net\\t1474\\segundoparcial\\programacionorientadaobjetos\\programacionorientadaobjetos\\modelos\\estudiante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{063B7A9C-222C-4DD1-AA08-7FF35F99A072}|ProgramacionOrientadaObjetos\\ProgramacionOrientadaObjetos.csproj|C:\\projects\\.Net\\t1474\\SegundoParcial\\ProgramacionOrientadaObjetos\\programacionorientadaobjetos\\modelos\\estudiante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{063B7A9C-222C-4DD1-AA08-7FF35F99A072}|ProgramacionOrientadaObjetos\\ProgramacionOrientadaObjetos.csproj|solutionrelative:programacionorientadaobjetos\\modelos\\estudiante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -28,7 +28,7 @@
               "RelativeDocumentMoniker": "ProgramacionOrientadaObjetos\\Modelos\\Estudiante.cs",
               "ToolTip": "C:\\projects\\.Net\\t1474\\SegundoParcial\\ProgramacionOrientadaObjetos\\ProgramacionOrientadaObjetos\\Modelos\\Estudiante.cs",
               "RelativeToolTip": "ProgramacionOrientadaObjetos\\Modelos\\Estudiante.cs",
-              "ViewState": "AQIAACgAAAAAAAAAAAAcwDYAAAAAAAAA",
+              "ViewState": "AQIAAEwAAAAAAAAAAAAAADYAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-30T00:57:02.152Z",
               "EditorCaption": ""
@@ -41,7 +41,7 @@
               "RelativeDocumentMoniker": "ProgramacionOrientadaObjetos\\Program.cs",
               "ToolTip": "C:\\projects\\.Net\\t1474\\SegundoParcial\\ProgramacionOrientadaObjetos\\ProgramacionOrientadaObjetos\\Program.cs",
               "RelativeToolTip": "ProgramacionOrientadaObjetos\\Program.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAoAAAAFAAAA",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAADEAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-30T00:49:35.855Z",
               "EditorCaption": ""

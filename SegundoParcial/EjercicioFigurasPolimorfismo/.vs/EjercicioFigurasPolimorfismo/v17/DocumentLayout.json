@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\projects\\.Net\\t1474\\SegundoParcial\\EjercicioFigurasPolimorfismo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CAC31BCF-AB15-4441-B79F-3D115EF6AA84}|EjercicioFigurasPolimorfismo\\EjercicioFigurasPolimorfismo.csproj|c:\\projects\\.net\\t1474\\segundoparcial\\ejerciciofiguraspolimorfismo\\ejerciciofiguraspolimorfismo\\modelos\\triangulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CAC31BCF-AB15-4441-B79F-3D115EF6AA84}|EjercicioFigurasPolimorfismo\\EjercicioFigurasPolimorfismo.csproj|solutionrelative:ejerciciofiguraspolimorfismo\\modelos\\triangulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAC31BCF-AB15-4441-B79F-3D115EF6AA84}|EjercicioFigurasPolimorfismo\\EjercicioFigurasPolimorfismo.csproj|c:\\projects\\.net\\t1474\\segundoparcial\\ejerciciofiguraspolimorfismo\\ejerciciofiguraspolimorfismo\\modelos\\circulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CAC31BCF-AB15-4441-B79F-3D115EF6AA84}|EjercicioFigurasPolimorfismo\\EjercicioFigurasPolimorfismo.csproj|solutionrelative:ejerciciofiguraspolimorfismo\\modelos\\circulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAC31BCF-AB15-4441-B79F-3D115EF6AA84}|EjercicioFigurasPolimorfismo\\EjercicioFigurasPolimorfismo.csproj|c:\\projects\\.net\\t1474\\segundoparcial\\ejerciciofiguraspolimorfismo\\ejerciciofiguraspolimorfismo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CAC31BCF-AB15-4441-B79F-3D115EF6AA84}|EjercicioFigurasPolimorfismo\\EjercicioFigurasPolimorfismo.csproj|solutionrelative:ejerciciofiguraspolimorfismo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAC31BCF-AB15-4441-B79F-3D115EF6AA84}|EjercicioFigurasPolimorfismo\\EjercicioFigurasPolimorfismo.csproj|c:\\projects\\.net\\t1474\\segundoparcial\\ejerciciofiguraspolimorfismo\\ejerciciofiguraspolimorfismo\\modelos\\figura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CAC31BCF-AB15-4441-B79F-3D115EF6AA84}|EjercicioFigurasPolimorfismo\\EjercicioFigurasPolimorfismo.csproj|solutionrelative:ejerciciofiguraspolimorfismo\\modelos\\figura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Circulo.cs",
+              "DocumentMoniker": "C:\\projects\\.Net\\t1474\\SegundoParcial\\EjercicioFigurasPolimorfismo\\EjercicioFigurasPolimorfismo\\Modelos\\Circulo.cs",
+              "RelativeDocumentMoniker": "EjercicioFigurasPolimorfismo\\Modelos\\Circulo.cs",
+              "ToolTip": "C:\\projects\\.Net\\t1474\\SegundoParcial\\EjercicioFigurasPolimorfismo\\EjercicioFigurasPolimorfismo\\Modelos\\Circulo.cs",
+              "RelativeToolTip": "EjercicioFigurasPolimorfismo\\Modelos\\Circulo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-08T00:47:26.064Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Triangulo.cs",
+              "DocumentMoniker": "C:\\projects\\.Net\\t1474\\SegundoParcial\\EjercicioFigurasPolimorfismo\\EjercicioFigurasPolimorfismo\\Modelos\\Triangulo.cs",
+              "RelativeDocumentMoniker": "EjercicioFigurasPolimorfismo\\Modelos\\Triangulo.cs",
+              "ToolTip": "C:\\projects\\.Net\\t1474\\SegundoParcial\\EjercicioFigurasPolimorfismo\\EjercicioFigurasPolimorfismo\\Modelos\\Triangulo.cs",
+              "RelativeToolTip": "EjercicioFigurasPolimorfismo\\Modelos\\Triangulo.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAwwBYAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-08T00:34:06.719Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Figura.cs",
+              "DocumentMoniker": "C:\\projects\\.Net\\t1474\\SegundoParcial\\EjercicioFigurasPolimorfismo\\EjercicioFigurasPolimorfismo\\Modelos\\Figura.cs",
+              "RelativeDocumentMoniker": "EjercicioFigurasPolimorfismo\\Modelos\\Figura.cs",
+              "ToolTip": "C:\\projects\\.Net\\t1474\\SegundoParcial\\EjercicioFigurasPolimorfismo\\EjercicioFigurasPolimorfismo\\Modelos\\Figura.cs",
+              "RelativeToolTip": "EjercicioFigurasPolimorfismo\\Modelos\\Figura.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAwAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-08T00:32:20.219Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\projects\\.Net\\t1474\\SegundoParcial\\EjercicioFigurasPolimorfismo\\EjercicioFigurasPolimorfismo\\Program.cs",
+              "RelativeDocumentMoniker": "EjercicioFigurasPolimorfismo\\Program.cs",
+              "ToolTip": "C:\\projects\\.Net\\t1474\\SegundoParcial\\EjercicioFigurasPolimorfismo\\EjercicioFigurasPolimorfismo\\Program.cs",
+              "RelativeToolTip": "EjercicioFigurasPolimorfismo\\Program.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAQwA0AAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-08T00:31:44.299Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
