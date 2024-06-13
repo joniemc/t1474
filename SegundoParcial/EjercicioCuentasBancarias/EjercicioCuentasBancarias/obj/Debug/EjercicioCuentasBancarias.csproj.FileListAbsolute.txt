@@ -1,0 +1,7 @@
+C:\projects\.Net\t1474\SegundoParcial\EjercicioCuentasBancarias\EjercicioCuentasBancarias\bin\Debug\EjercicioCuentasBancarias.exe.config
+C:\projects\.Net\t1474\SegundoParcial\EjercicioCuentasBancarias\EjercicioCuentasBancarias\bin\Debug\EjercicioCuentasBancarias.exe
+C:\projects\.Net\t1474\SegundoParcial\EjercicioCuentasBancarias\EjercicioCuentasBancarias\bin\Debug\EjercicioCuentasBancarias.pdb
+C:\projects\.Net\t1474\SegundoParcial\EjercicioCuentasBancarias\EjercicioCuentasBancarias\obj\Debug\EjercicioCuentasBancarias.csproj.AssemblyReference.cache
+C:\projects\.Net\t1474\SegundoParcial\EjercicioCuentasBancarias\EjercicioCuentasBancarias\obj\Debug\EjercicioCuentasBancarias.csproj.CoreCompileInputs.cache
+C:\projects\.Net\t1474\SegundoParcial\EjercicioCuentasBancarias\EjercicioCuentasBancarias\obj\Debug\EjercicioCuentasBancarias.exe
+C:\projects\.Net\t1474\SegundoParcial\EjercicioCuentasBancarias\EjercicioCuentasBancarias\obj\Debug\EjercicioCuentasBancarias.pdb

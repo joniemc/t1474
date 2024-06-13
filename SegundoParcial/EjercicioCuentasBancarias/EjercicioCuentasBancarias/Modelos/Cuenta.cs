@@ -11,7 +11,8 @@ namespace EjercicioCuentasBancarias.Modelos
         public string IdCuenta { get; set; }
         public string Nombre { get; set; }
         public double Balance { get; set; }
-        public double PorcentajeInteres { get; set; }
+
+        private double porcentajeInteres;
 
         public Cuenta() { }
 
@@ -22,6 +23,21 @@ namespace EjercicioCuentasBancarias.Modelos
             Balance=balance;
             PorcentajeInteres=porcentajeInteres;
         }
+
+        public double PorcentajeInteres {
+            get { return this.porcentajeInteres; }
+
+            set {
+                if (value>0 && value <= 100) {
+                    this.porcentajeInteres = value/100; 
+                }
+                else
+                {
+                    this.porcentajeInteres = 0.10;
+                }
+            }
+        } 
+        
 
         public void Deposito(double monto){
             if (monto>0) {

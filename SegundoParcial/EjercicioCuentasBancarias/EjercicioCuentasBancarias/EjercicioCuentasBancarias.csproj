@@ -44,6 +44,8 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Modelos\Cuenta.cs" />
+    <Compile Include="Modelos\CuentaBasica.cs" />
+    <Compile Include="Modelos\CuentaPremium.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
