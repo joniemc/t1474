@@ -1,4 +1,6 @@
-﻿using EjercicioCuentasBancarias.Modelos;
+﻿using EjercicioCuentasBancarias.Config;
+using EjercicioCuentasBancarias.Modelos;
+using MySql.Data.MySqlClient;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -16,7 +18,14 @@ namespace EjercicioCuentasBancarias
             int opcionMenuCC = 0;
 
             do {
-                
+                DatabaseConnection ejemplo = new DatabaseConnection();
+                List<Usuario> usuarios = ejemplo.ExecuteSQL("select * from tbl_usuario");
+
+                foreach (Usuario usuario in usuarios) {
+                    Console.WriteLine(usuario.Nombre);
+                    Console.WriteLine(usuario.Correo);
+                }
+
                 MenuPrincipal();
                 opcionMenuP = Convert.ToInt16(Console.ReadLine());
                 string idCuenta;
@@ -108,7 +117,7 @@ namespace EjercicioCuentasBancarias
                 }
                 Console.WriteLine();
             } while (opcionMenuP!=0);
-
+            Console.ReadKey();
         }
         private static void MenuPrincipal() {
             Console.WriteLine("=================MENU PRINCIPAL=================");

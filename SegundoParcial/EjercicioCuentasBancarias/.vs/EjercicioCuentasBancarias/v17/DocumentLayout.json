@@ -3,8 +3,20 @@
   "WorkspaceRootPath": "C:\\projects\\.Net\\t1474\\SegundoParcial\\EjercicioCuentasBancarias\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{43DE8501-1FE6-4432-8A24-B298CE43BE69}|EjercicioCuentasBancarias\\EjercicioCuentasBancarias.csproj|c:\\projects\\.net\\t1474\\segundoparcial\\ejerciciocuentasbancarias\\ejerciciocuentasbancarias\\config\\databaseconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43DE8501-1FE6-4432-8A24-B298CE43BE69}|EjercicioCuentasBancarias\\EjercicioCuentasBancarias.csproj|solutionrelative:ejerciciocuentasbancarias\\config\\databaseconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{43DE8501-1FE6-4432-8A24-B298CE43BE69}|EjercicioCuentasBancarias\\EjercicioCuentasBancarias.csproj|c:\\projects\\.net\\t1474\\segundoparcial\\ejerciciocuentasbancarias\\ejerciciocuentasbancarias\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{43DE8501-1FE6-4432-8A24-B298CE43BE69}|EjercicioCuentasBancarias\\EjercicioCuentasBancarias.csproj|solutionrelative:ejerciciocuentasbancarias\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43DE8501-1FE6-4432-8A24-B298CE43BE69}|EjercicioCuentasBancarias\\EjercicioCuentasBancarias.csproj|c:\\projects\\.net\\t1474\\segundoparcial\\ejerciciocuentasbancarias\\ejerciciocuentasbancarias\\modelos\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43DE8501-1FE6-4432-8A24-B298CE43BE69}|EjercicioCuentasBancarias\\EjercicioCuentasBancarias.csproj|solutionrelative:ejerciciocuentasbancarias\\modelos\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43DE8501-1FE6-4432-8A24-B298CE43BE69}|EjercicioCuentasBancarias\\EjercicioCuentasBancarias.csproj|C:\\projects\\.Net\\t1474\\SegundoParcial\\EjercicioCuentasBancarias\\ejerciciocuentasbancarias\\modelos\\cuenta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43DE8501-1FE6-4432-8A24-B298CE43BE69}|EjercicioCuentasBancarias\\EjercicioCuentasBancarias.csproj|solutionrelative:ejerciciocuentasbancarias\\modelos\\cuenta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{43DE8501-1FE6-4432-8A24-B298CE43BE69}|EjercicioCuentasBancarias\\EjercicioCuentasBancarias.csproj|C:\\projects\\.Net\\t1474\\SegundoParcial\\EjercicioCuentasBancarias\\ejerciciocuentasbancarias\\modelos\\cuentapremium.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -13,10 +25,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{43DE8501-1FE6-4432-8A24-B298CE43BE69}|EjercicioCuentasBancarias\\EjercicioCuentasBancarias.csproj|C:\\projects\\.Net\\t1474\\SegundoParcial\\EjercicioCuentasBancarias\\ejerciciocuentasbancarias\\modelos\\cuentabasica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{43DE8501-1FE6-4432-8A24-B298CE43BE69}|EjercicioCuentasBancarias\\EjercicioCuentasBancarias.csproj|solutionrelative:ejerciciocuentasbancarias\\modelos\\cuentabasica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{43DE8501-1FE6-4432-8A24-B298CE43BE69}|EjercicioCuentasBancarias\\EjercicioCuentasBancarias.csproj|C:\\projects\\.Net\\t1474\\SegundoParcial\\EjercicioCuentasBancarias\\ejerciciocuentasbancarias\\modelos\\cuenta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{43DE8501-1FE6-4432-8A24-B298CE43BE69}|EjercicioCuentasBancarias\\EjercicioCuentasBancarias.csproj|solutionrelative:ejerciciocuentasbancarias\\modelos\\cuenta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,23 +34,50 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\projects\\.Net\\t1474\\SegundoParcial\\EjercicioCuentasBancarias\\EjercicioCuentasBancarias\\Modelos\\Usuario.cs",
+              "RelativeDocumentMoniker": "EjercicioCuentasBancarias\\Modelos\\Usuario.cs",
+              "ToolTip": "C:\\projects\\.Net\\t1474\\SegundoParcial\\EjercicioCuentasBancarias\\EjercicioCuentasBancarias\\Modelos\\Usuario.cs",
+              "RelativeToolTip": "EjercicioCuentasBancarias\\Modelos\\Usuario.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAA6wA0AAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T01:24:57.613Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DatabaseConnection.cs",
+              "DocumentMoniker": "C:\\projects\\.Net\\t1474\\SegundoParcial\\EjercicioCuentasBancarias\\EjercicioCuentasBancarias\\Config\\DatabaseConnection.cs",
+              "RelativeDocumentMoniker": "EjercicioCuentasBancarias\\Config\\DatabaseConnection.cs",
+              "ToolTip": "C:\\projects\\.Net\\t1474\\SegundoParcial\\EjercicioCuentasBancarias\\EjercicioCuentasBancarias\\Config\\DatabaseConnection.cs",
+              "RelativeToolTip": "EjercicioCuentasBancarias\\Config\\DatabaseConnection.cs",
+              "ViewState": "AQIAACwAAAAAAAAAAAAQwDgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T23:31:37.056Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "CuentaPremium.cs",
               "DocumentMoniker": "C:\\projects\\.Net\\t1474\\SegundoParcial\\EjercicioCuentasBancarias\\EjercicioCuentasBancarias\\Modelos\\CuentaPremium.cs",
               "RelativeDocumentMoniker": "EjercicioCuentasBancarias\\Modelos\\CuentaPremium.cs",
               "ToolTip": "C:\\projects\\.Net\\t1474\\SegundoParcial\\EjercicioCuentasBancarias\\EjercicioCuentasBancarias\\Modelos\\CuentaPremium.cs",
               "RelativeToolTip": "EjercicioCuentasBancarias\\Modelos\\CuentaPremium.cs",
-              "ViewState": "AQIAAAwAAAAAAAAAAAA3wB0AAAAkAAAA",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAYwB0AAAAkAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-13T00:40:11.193Z"
+              "WhenOpened": "2024-06-13T00:40:11.193Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "CuentaBasica.cs",
               "DocumentMoniker": "C:\\projects\\.Net\\t1474\\SegundoParcial\\EjercicioCuentasBancarias\\EjercicioCuentasBancarias\\Modelos\\CuentaBasica.cs",
               "RelativeDocumentMoniker": "EjercicioCuentasBancarias\\Modelos\\CuentaBasica.cs",
@@ -50,7 +85,8 @@
               "RelativeToolTip": "EjercicioCuentasBancarias\\Modelos\\CuentaBasica.cs",
               "ViewState": "AQIAAAMAAAAAAAAAAAAAABIAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-13T00:39:47.791Z"
+              "WhenOpened": "2024-06-13T00:39:47.791Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -60,19 +96,20 @@
               "RelativeDocumentMoniker": "EjercicioCuentasBancarias\\Modelos\\Cuenta.cs",
               "ToolTip": "C:\\projects\\.Net\\t1474\\SegundoParcial\\EjercicioCuentasBancarias\\EjercicioCuentasBancarias\\Modelos\\Cuenta.cs",
               "RelativeToolTip": "EjercicioCuentasBancarias\\Modelos\\Cuenta.cs",
-              "ViewState": "AQIAAAgAAAAAAAAAAAAxwAwAAAAdAAAA",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABAAAAAbAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-11T01:15:40.688Z"
+              "WhenOpened": "2024-06-11T01:15:40.688Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\projects\\.Net\\t1474\\SegundoParcial\\EjercicioCuentasBancarias\\EjercicioCuentasBancarias\\Program.cs",
               "RelativeDocumentMoniker": "EjercicioCuentasBancarias\\Program.cs",
               "ToolTip": "C:\\projects\\.Net\\t1474\\SegundoParcial\\EjercicioCuentasBancarias\\EjercicioCuentasBancarias\\Program.cs",
               "RelativeToolTip": "EjercicioCuentasBancarias\\Program.cs",
-              "ViewState": "AQIAAE8AAAAAAAAAAAAgwF0AAAA5AAAA",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAgwBUAAAA7AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-11T00:47:29.038Z",
               "EditorCaption": ""
